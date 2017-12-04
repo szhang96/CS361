@@ -1,0 +1,10 @@
+// No lexical errors. No syntactical errors.
+void main () {
+   int x, y, min;
+   x = 1;
+   y = 2;
+  if(x<y)
+  	min = x;
+  else 
+  	min = y;
+}
